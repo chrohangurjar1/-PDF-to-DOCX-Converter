@@ -48,7 +48,7 @@ This will open a graphical interface to select your PDF file and convert it to D
 
 ## 📷 Screenshot
 
-![App Screenshot](screenshot.png)  <!-- Replace with an actual screenshot if available -->
+![App Screenshot](pdf.png)  <!-- Replace with an actual screenshot if available -->
 
 ## 📚 Project Structure
 
