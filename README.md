@@ -9,6 +9,10 @@ Convert your PDF files to editable DOCX format effortlessly with this simple, in
 - **Multi-Page Support**: Convert all or selected pages.
 - **Error-Free Conversion**: Reliable output with minimal formatting loss.
 
+## 📷 Screenshot
+
+![App Screenshot](pdf.png)  <!-- Replace with an actual screenshot if available -->
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -47,9 +51,6 @@ This will open a graphical interface to select your PDF file and convert it to D
 2. **Choose the Save Location** for the output DOCX file.
 3. The tool will process the file and notify you upon completion.
 
-## 📷 Screenshot
-
-![App Screenshot](pdf.png)  <!-- Replace with an actual screenshot if available -->
 
 ## 📚 Project Structure
 
